@@ -1,3 +1,8 @@
 pyTelegramBotAPI
 yt-dlp
 aiohttp
+requests
+qrcode
+gtts
+BeautifulSoup4
+currency-converter
